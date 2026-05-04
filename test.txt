@@ -1,1 +1,2 @@
 I created a repository for the homework assignment with commits ready for further pull requests.
+I added text changes to the main branch to create a pull request.
